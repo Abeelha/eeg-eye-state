@@ -15,7 +15,7 @@
     "resources": [
         {
             "profile": "tabular-data-resource",
-            "path": "data/eeg-eye-state.csv",
+            "path": "data\\eeg-eye-state.csv",
             "mediatype": "text/csv",
             "encoding": "utf-8",
             "format": "csv",
